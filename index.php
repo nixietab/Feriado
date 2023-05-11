@@ -13,12 +13,17 @@ body{font-family:arial;display:flex;justify-content:center;align-items:center;he
 date_default_timezone_set('America/Argentina/Buenos_Aires');
 $feriados = array(
     '01-01',  // Año Nuevo
+    '02-20',  // Carnaval
+    '02-21',  // Carnaval       
     '03-24',  // Día Nacional de la Memoria por la Verdad y la Justicia
     '04-02',  // Día del Veterano y de los Caídos en la Guerra de Malvinas
     '05-01',  // Día del Trabajador
     '05-25',  // Día de la Revolución de Mayo
+    '05-26',  // Fines Turisticos    
+    '06-19',  // Fines turisticos    
     '06-20',  // Paso a la Inmortalidad del Gral. Manuel Belgrano
     '07-09',  // Día de la Independencia
+    '11-20'   // Día de la Soberanía Nacional    
     '12-08',  // Inmaculada Concepción de María
     '12-25'   // Navidad
 );
