@@ -20,6 +20,7 @@ $feriados = array(
     '05-01',  // Día del Trabajador
     '05-25',  // Día de la Revolución de Mayo
     '05-26',  // Fines Turisticos    
+    '06-17',  // Paso a la Inmortalidad del Gral. Don Martín Miguel de Güemes
     '06-19',  // Fines turisticos    
     '06-20',  // Paso a la Inmortalidad del Gral. Manuel Belgrano
     '07-09',  // Día de la Independencia
