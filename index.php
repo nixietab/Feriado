@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <style type="text/css">
-body{font-family:arial;display:flex;justify-content:center;align-items:center;height:100vh;background-color:black}h1{font-size:4em;color:#fff5d6;text-align:center}
+body{overflow: hidden;font-family:arial;display:flex;justify-content:center;align-items:center;height:100vh;background-color:black}h1{font-size:4em;color:#fff5d6;text-align:center}
 </style>
 <html>
 <head>
@@ -24,7 +24,7 @@ $feriados = array(
     '06-19',  // Fines turisticos    
     '06-20',  // Paso a la Inmortalidad del Gral. Manuel Belgrano
     '07-09',  // Día de la Independencia
-    '11-20'   // Día de la Soberanía Nacional    
+    '11-20',   // Día de la Soberanía Nacional    
     '12-08',  // Inmaculada Concepción de María
     '12-25'   // Navidad
 );
