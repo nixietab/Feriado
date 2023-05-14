@@ -1,7 +1,7 @@
 # Feriado
 Un script mínimo sigle-file de PHP que cuenta cuantos días faltan para el próximo feriado argentino de la manera mas mínima posible.
 
-Demo: [Helene.tk/feriado](https://helene.tk/feriado)
+Demo: [Helene.tk/feriado](https://helene.tk/feriado/uy)
 
 ![Imagen de como es el display del programa](https://imgur.com/1ssu8ig.png)
 
