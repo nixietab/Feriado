@@ -24,6 +24,7 @@ $feriados = array(
     '06-19',  // Fines turisticos    
     '06-20',  // Paso a la Inmortalidad del Gral. Manuel Belgrano
     '07-09',  // Día de la Independencia
+    '10-13',  // Feriado con fines turisticos
     '11-20',   // Día de la Soberanía Nacional    
     '12-08',  // Inmaculada Concepción de María
     '12-25'   // Navidad
